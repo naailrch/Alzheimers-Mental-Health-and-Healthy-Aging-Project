@@ -36,8 +36,11 @@ While controlling for race, the mean frequency of mental illness in older adults
 **Assumptions:** 
 
   1.)	 This was a random sample carried out by the BRFFS through randomized telephone surveys to various people across the United States.
+  
   2.)	 The sample had independent observations as there were no relationships between each individual survey carried out by the BRFSS.
+ 
   3.)	 While the two different age groups were normally distributed, when looking at the Race/Ethnicity factor, the “White, non – Hispanic” group was not normally distributed. No transformations could produce a normal distribution for the “White, non – Hispanic” group, and so the sample data failed the normality assumption for each group within each factor. Normality can be assessed visually through a box plot of the explanatory and response variables.   
+ 
   4.)	 This data fails Levene’s test of equal variances for both factors. It was found that the three race groups within the race factor had significantly different variances from each other (p=0.003). Furthermore, it was also found that the two age groups within the Age category also had significantly different variances from each other (p=0.034).
 
 
