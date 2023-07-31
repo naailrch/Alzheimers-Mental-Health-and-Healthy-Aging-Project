@@ -8,6 +8,7 @@
 **Research Questions:** 
 
   Research Question 1 – Does the mean frequency of older adult people who suffer from a mental health issue differ based on race of the patient?
+  
   Research Question 2 – Does the mean frequency of older adult people who suffer from a mental health issue differ based on age of the patient?
 
 
